@@ -3,3 +3,6 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+image {
+    max-width: .5em;
+}

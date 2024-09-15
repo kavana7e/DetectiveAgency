@@ -4,6 +4,9 @@ body{
     background:white;
     color:black;
 }
+img {
+    max-width: .5em;
+}
 form input{
     color:black;
 }
